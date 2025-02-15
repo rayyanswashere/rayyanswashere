@@ -9,4 +9,3 @@ if player and player.Character then
         end
     end
 end
-there
